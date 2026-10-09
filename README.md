@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋, I'm Pier Francesco Sorgiovanni
+#### Software engineer in Copenhagen.
 
-<!--
-**pierGit7/pierGit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working at **WSAudiology** as a Student Programmer (Azure DevOps, Terraform, Ansible, Proxmox, Grafana, Go and Python tooling)
+- 📚 I'm pursuing an MSc in Computer Science and Engineering at **DTU**
+- 🚤 I'm on the software team of **[Float Forward DTU](https://dtufloatforward.dk/)**: ROS 2 / Gazebo simulation and telemetry dashboards ([repo](https://github.com/Float-Forward-Autonomous-Team/FloatForwardROS2/tree/navigation))
+- 🛰️ Previously: HMI software at **Same Deutz-Fahr** and satellite test tooling at **Thales Alenia Space**
+- 📫 How to reach me: sorgiovanni60@gmail.com
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/REPLACE-ME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="40" height="40"/></a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a> <a href="https://azure.microsoft.com/products/devops" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="40" height="40"/></a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/></a> <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a> <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> </p>
+
+<h3 align="left">Featured projects:</h3>
+
+- **[🎨 Chromify](https://github.com/pierGit7/Chromify)**: brings black-and-white photos back to life. Upload a grayscale image and a U-Net + GAN model (PyTorch) returns a colorized version.
+  Full MLOps pipeline: FastAPI inference service, React/TypeScript frontend, Docker, data versioning with DVC on Google Cloud Storage, container builds on Google Cloud Build and CI with GitHub Actions.
+- **[🎯 TrackShot](https://github.com/pierGit7/TrackShot)**: real-time ball detection and tracking on the edge. A custom-trained YOLOv8n model, INT8-quantized to TensorFlow Lite, runs directly on an ESP32-S3 microcontroller, reading frames from its onboard camera.
+  Training with Ultralytics + Hydra configs; on-device inference in C++ with ESP-IDF and TFLite Micro.
