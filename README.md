@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Pier Francesco Sorgiovanni
 #### Software engineer in Copenhagen.
 
-- 🔭 I'm currently working at **WSAudiology** as a Student Programmer (Azure DevOps, Terraform, Ansible, Proxmox, Grafana, Go and Python tooling)
+- 🔭 I'm currently working at **WSAudiology** as a Student Programmer, focusing on DevOps and AI tooling
 - 📚 I'm pursuing an MSc in Computer Science and Engineering at **DTU**
-- 🚤 I'm on the software team of **[Float Forward DTU](https://dtufloatforward.dk/)**: ROS 2 / Gazebo simulation and telemetry dashboards ([repo](https://github.com/Float-Forward-Autonomous-Team/FloatForwardROS2/tree/navigation))
+- 🚤 I'm on the software team of **[Float Forward DTU](https://dtufloatforward.dk/)**: Building simulation environment and AI monitoring dashboard([repo](https://github.com/Float-Forward-Autonomous-Team/FloatForwardROS2/tree/navigation))
 - 🛰️ Previously: HMI software at **Same Deutz-Fahr** and satellite test tooling at **Thales Alenia Space**
 - 📫 How to reach me: sorgiovanni60@gmail.com
 
