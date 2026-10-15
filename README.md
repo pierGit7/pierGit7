@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working at **WSAudiology** as a Student Programmer, focusing on DevOps and AI tooling
 - 📚 I'm pursuing an MSc in Computer Science and Engineering at **DTU**
-- 🚤 I'm on the software team of **[Float Forward DTU](https://dtufloatforward.dk/)**: Building simulation environment and AI monitoring dashboard([repo](https://github.com/Float-Forward-Autonomous-Team/FloatForwardROS2/tree/navigation))
+- 🚤 I'm on the software team of **[Float Forward DTU](https://dtufloatforward.dk/)**: Building simulation environment and AI monitoring dashboard ([repo](https://github.com/Float-Forward-Autonomous-Team/FloatForwardROS2/tree/navigation))
 - 🛰️ Previously: HMI software at **Same Deutz-Fahr** and satellite test tooling at **Thales Alenia Space**
 - 📫 How to reach me: sorgiovanni60@gmail.com
 
@@ -17,9 +17,11 @@
 
 <h3 align="left">Featured projects:</h3>
 
-- **[🥗 Macros](https://github.com/pierGit7/macros)**: self-hosted app to plan meals around daily macronutrient targets. Set your weight and daily protein, carbs and fats, pick a recipe for each meal, and the app works out how many grams of each ingredient to eat to hit that meal's targets; log extras and see the kcal left for the day.
+- **[🥗 Macros](https://github.com/pierGit7/macros)**: self-hosted app to plan meals around daily macronutrient targets. Set your weight and daily protein, carbs and fats, pick a recipe for each meal, and the app works out how many grams of each ingredient to eat to hit that meal's targets; log extras and see the kcal left for the day.<br>
   Go REST API with a non-negative least-squares portion solver, static HTML/JS frontend behind nginx, Docker Compose, running on a Raspberry Pi; CI/CD with GitHub Actions builds arm64 images to GHCR and deploys over Tailscale.
-- **[🎨 Chromify](https://github.com/pierGit7/Chromify)**: brings black-and-white photos back to life. Upload a grayscale image and a U-Net + GAN model (PyTorch) returns a colorized version.
+- **[⚽ Foosball DTU](https://github.com/MarlonBando/foosball-dtu)** *(contributor)*: foosball has been my passion since I was a kid, so I joined this ELO ranking app for the foosball players at DTU, made to finally settle who the GOAT is ([live site](https://marlonbando.github.io/foosball-dtu/)).<br>
+  I helped redesign the UI and the ELO rating logic, and developed the new backend deployment on a local server. Go (Gin) REST API with Supabase auth, React + TypeScript + Tailwind frontend on GitHub Pages, Docker images on GHCR deployed with GitHub Actions.
+- **[🎨 Chromify](https://github.com/pierGit7/Chromify)**: brings black-and-white photos back to life. Upload a grayscale image and a U-Net + GAN model (PyTorch) returns a colorized version.<br>
   Full MLOps pipeline: FastAPI inference service, React/TypeScript frontend, Docker, data versioning with DVC on Google Cloud Storage, container builds on Google Cloud Build and CI with GitHub Actions.
-- **[🎯 TrackShot](https://github.com/pierGit7/TrackShot)**: real-time ball detection and tracking on the edge. A custom-trained YOLOv8n model, INT8-quantized to TensorFlow Lite, runs directly on an ESP32-S3 microcontroller, reading frames from its onboard camera.
+- **[🎯 TrackShot](https://github.com/pierGit7/TrackShot)**: real-time ball detection and tracking on the edge. A custom-trained YOLOv8n model, INT8-quantized to TensorFlow Lite, runs directly on an ESP32-S3 microcontroller, reading frames from its onboard camera.<br>
   Training with Ultralytics + Hydra configs; on-device inference in C++ with ESP-IDF and TFLite Micro.
